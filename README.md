@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=Software+Engineer;Master's+Student;Generative+AI+%7C+Applied+ML;Civic+Tech+%26+Creative+Technologist" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=Software+Engineer+III;MIDS+Fellow;Civic+%26+Creative+Tech" />
 </p>
 
 ---
@@ -12,9 +12,7 @@ Engineer focused on scalable systems, applied machine learning, and technology-d
 
 ## 🚀 About Me
 
-I build intuitive frontend platforms and scalable backend systems powering enterprise SaaS subscription management at Cisco. My work supports high-revenue software products and focuses on reliability, security, and performance at scale.
-
-As a MIDS Fellow at UC Berkeley, I’m expanding into machine learning, generative AI, and applied analytics to bridge large-scale engineering with intelligent systems.
+I’m a Software Engineer III @ Cisco and MIDS Fellow @ UC Berkeley, with a foundation in Computer Science from Northwestern University. I build and scale enterprise systems while expanding into machine learning and applied AI.
 
 ---
 
@@ -33,18 +31,19 @@ As a MIDS Fellow at UC Berkeley, I’m expanding into machine learning, generati
 Java • Python • SQL  
 
 **Frontend**  
-Vue • React • Modern UI architecture  
+Vue • React
 
 **Backend & Infrastructure**  
 Spring Boot • Apache Camel • GCP • RESTful systems  
 
 ---
 
-## 🌍 Hobbies
+## 🌍 Beyond Engineering
 
 - Writing short stories and poetry
-- DJing  
-- Community advocacy (especially with transit issues, dogs, and clean neighborhoods)  
+- DJing
+- International travel (21 countries so far)  
+- Community advocacy spanning transit reform, neighborhood improvement, and animal welfare  
 
 ---
 
