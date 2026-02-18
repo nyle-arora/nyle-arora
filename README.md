@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=Software+Engineer+III+%40+Cisco;MIDS+Fellow+%40+UC+Berkeley;Scalable+Systems+Architect;Generative+AI+%7C+Applied+ML;Civic+Tech+%26+Creative+Technologist" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=Software+Engineer;Master's+Student;Generative+AI+%7C+Applied+ML;Civic+Tech+%26+Creative+Technologist" />
 </p>
 
 ---
@@ -33,37 +33,23 @@ As a MIDS Fellow at UC Berkeley, I’m expanding into machine learning, generati
 Java • Python • SQL  
 
 **Frontend**  
-Vue.js • TypeScript • Modern UI architecture  
+Vue • React • Modern UI architecture  
 
 **Backend & Infrastructure**  
 Spring Boot • Apache Camel • GCP • RESTful systems  
 
 ---
 
-## 🌍 Community & Leadership
+## 🌍 Hobbies
 
-- Transit advocacy and statewide policy initiatives  
-- Neighborhood cleanups in San Francisco  
-- Alumni interviewer, Northwestern University  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyle-arora&show_icons=true&hide_border=true" />
-</p>
-
----
-
-## 🎵 Creative Side
-
-I write short fiction and poetry, mix music on the DJ board, and am learning the guitar!
-
-SoundCloud: https://soundcloud.com/nylearora  
+- Writing short stories and poetry
+- DJing  
+- Community advocacy (especially with transit issues, dogs, and clean neighborhoods)  
 
 ---
 
 ## 🤝 Connect
 
 LinkedIn: https://www.linkedin.com/in/nyle-arora/
+Instagram: @nyle_navansh_arora
+SoundCloud: https://soundcloud.com/nylearora  
