@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Nyle (he/him/his) 👋
 
-<!--
-**nyle-arora/nyle-arora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Engineer III @ Cisco
+Building intuitive frontend platforms and scalable backend systems powering enterprise SaaS subscription management.
 
-Here are some ideas to get you started:
+## ✏️ MIDS Fellow @ UC Berkeley
+Currently exploring generative AI, machine learning, and applied analytics in UC Berkeley's Data Science Master's program!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Computer Science BA @ Northwestern
+Graduated from Weingberg College of Arts & Sciences, completing electives in intelligent information systems, networking/security, and robotics.
+
+## 🚊 Community & Leadership
+Transit advocacy, neighborhood cleanups, alumni interviewing.
+
+## 🛠 Tech Stack
+Java | VueJS | Springboot | Python | SQL | GCP | Apache Camel
+
+## 📫 Connect with Me
+LinkedIn: https://www.linkedin.com/in/nyle-arora/
+
+Instagram: @nyle_navansh_arora
+
+SoundCloud: https://soundcloud.com/nylearora
+
