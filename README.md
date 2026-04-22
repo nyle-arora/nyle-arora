@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=Software+Engineer+III;MIDS+Fellow;Civic+%26+Creative+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=Software+Engineer+III;Data Science Masters;Civic+%26+Creative+Tech" />
 </p>
 
 ---
@@ -12,7 +12,7 @@ Engineer focused on scalable systems, applied machine learning, and technology-d
 
 ## 🚀 About Me
 
-I’m a Software Engineer III @ Cisco and MIDS Fellow @ UC Berkeley, with a foundation in Computer Science from Northwestern University. I build and scale enterprise systems while expanding into machine learning and applied AI.
+I’m currently a Software Engineer III @ Cisco and Data Science masters' student @ UC Berkeley, with a foundation in Computer Science from Northwestern University. I build and scale enterprise systems while expanding into machine learning and applied AI.
 
 ---
 
