@@ -21,7 +21,7 @@ I’m currently a Software Engineer III @ Cisco and Data Science masters' studen
 - Distributed systems & platform architecture  
 - Generative AI applications   
 - Civic tech & data-driven policy
-- Music software leveraging CV
+- Vocal tuning and DJ software plugins leveraging CV
 
 ---
 
