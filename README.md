@@ -19,9 +19,9 @@ I’m currently a Software Engineer III @ Cisco and Data Science masters' studen
 ## 🧠 Current Interests
 
 - Distributed systems & platform architecture  
-- Generative AI applications  
-- Applied machine learning in production environments  
-- Civic tech & data-driven policy  
+- Generative AI applications   
+- Civic tech & data-driven policy
+- Music software leveraging CV
 
 ---
 
@@ -35,15 +35,6 @@ Vue • React
 
 **Backend & Infrastructure**  
 Spring Boot • Apache Camel • GCP • RESTful systems  
-
----
-
-## 🌍 Beyond Engineering
-
-- Writing short stories and poetry
-- DJing
-- International travel (21 countries so far)  
-- Community advocacy spanning transit reform, neighborhood improvement, and animal welfare  
 
 ---
 
