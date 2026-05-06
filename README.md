@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=Software+Engineer+III;Data Science Masters;Civic+%26+Creative+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=Software+Engineer+III;Data+Science+Master%E2%80%99s;Civic+%26+Creative+Tech" />
 </p>
 
 ---
