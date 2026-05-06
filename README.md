@@ -51,6 +51,6 @@ Spring Boot • Apache Camel • GCP • RESTful systems
 
 LinkedIn: https://www.linkedin.com/in/nyle-arora/
 
-Instagram: @nyle_navansh_arora
+SoundCloud: https://soundcloud.com/nylearora
 
-SoundCloud: https://soundcloud.com/nylearora  
+YouTube: @nylearora2351
