@@ -12,7 +12,7 @@ Engineer focused on scalable systems, applied machine learning, and technology-d
 
 ## 🚀 About Me
 
-I’m currently a Software Engineer III @ Cisco and Data Science masters' student @ UC Berkeley, with a foundation in Computer Science from Northwestern University. I build and scale enterprise systems while expanding into machine learning and applied AI.
+I’m currently a Software Engineer III @ Cisco and Data Science masters' student @ UC Berkeley. I build and scale enterprise systems, while expanding into ML and CV.
 
 ---
 
